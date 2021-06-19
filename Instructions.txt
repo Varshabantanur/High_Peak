@@ -1,0 +1,5 @@
+Instruction : User Just have to compile the Code and Give a Run
+I have already Given the Goodies and Prices in the main Function As a Array So User Just Have to Provide how many Employees he Wants to Distrubute.
+
+M = Number of Employees 
+Just Provide this Input the Code will work 
